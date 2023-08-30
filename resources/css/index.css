@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* Header section styling */
@@ -23,3 +24,31 @@ nav a {
     font-weight: 500;
 }
 
+/* Aout Me section styling */
+
+#about-me {
+    display: flex;
+    float: left;
+    width: 100%;
+    padding: 35px 5%;
+    background-color: darkblue;
+    color: white;
+}
+
+figure {
+    width: 25%
+}
+
+article {
+    width: 75%;
+    margin-left: 5%;
+}
+
+article h2 {
+    margin-bottom: 10px;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+}

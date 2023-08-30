@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header section styling */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #9AD9EB;
+    padding: 25px 5%;
+}
+
+nav a {
+    display: inline-flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-weight: 500;
+}
+

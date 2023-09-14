@@ -103,7 +103,7 @@ figure img {
     padding-left: 15px;
     padding-right: 15px;
     text-decoration: none;
-    font-size: min(2vw, 30px);
+    font-size: min(2vw, 40px);
     font-weight: 500;
     background-color: turquoise;
     color: rgb(50, 50, 50);
@@ -129,9 +129,13 @@ figure img {
     text-decoration: none;
 }
 
+.card-image:hover {
+    border: 1px solid turquoise;
+}
+
 /* Media query to move links bellow header title for smaller screens.  */
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     header {
         flex-direction: column;
     }

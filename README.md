@@ -6,6 +6,9 @@ A portfolio site that displays a developers projects and abilities, as well as w
 ## Languages 
 HTML/CSS
 
+## Contributions 
+Anastasia Warren - ASU bootcamp tutor 
+
 ## Deployed Site 
 https://itspablooo.github.io/portfolio/
 
